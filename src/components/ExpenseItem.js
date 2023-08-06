@@ -3,14 +3,14 @@ function ExpenseItem() {
         <div>
             <div><h2>Expense Items</h2></div>
             <div>
-                <h2>Food</h2>
-                <h2>Rs10</h2>
+                <p>Food Rs10</p>
             </div>
             <div>
-                <h2>Petrol</h2>
-                <h2>Rs100</h2>
+                <p>Petrol Rs100</p>
             </div>
-            
+            <div>
+                <p>Movie Rs200</p>
+            </div>
         </div>
     )
 }
