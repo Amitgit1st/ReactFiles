@@ -13,7 +13,6 @@ function ExpenseItem() {
             <h2>{LocationOfExpenditure}</h2>
             <div className='expense-item__description'></div>
             <h2>{expenseTitle}</h2>
-
             <div className='expense-item__price'>Rs{expenseAmount}</div>
         </div>
     )
